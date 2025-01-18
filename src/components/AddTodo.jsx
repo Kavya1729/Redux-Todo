@@ -24,7 +24,7 @@ const AddTodo = () => {
                 />
                 <button
                     type='submit'
-                    className='text-white bg-indigo-500 px-3 py-1 rounded hover:bg-indigo-600'
+                    className='text-white bg-blue-500 px-3 py-1 rounded hover:bg-green-600 color-blue-500'
                 > Add Todo</button>
             </form>
         </div>
